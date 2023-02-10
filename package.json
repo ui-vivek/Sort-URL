@@ -1,0 +1,26 @@
+{
+  "name": "url-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ui-vivek/Sort-URL.git"
+  },
+  "author": "Vivek Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ui-vivek/Sort-URL/issues"
+  },
+  "homepage": "https://github.com/ui-vivek/Sort-URL#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1",
+    "nanoid": "^4.0.1",
+    "nodemon": "^2.0.20"
+  }
+}
